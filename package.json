@@ -1,0 +1,20 @@
+{
+  "name": "next-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "Abril Isabel <abrilgutierrez66658@gmail.com> (https://github.com/Kitty-js)",
+  "license": "ISC",
+  "dependencies": {
+    "bootswatch": "^4.6.0",
+    "classnames": "^2.2.6",
+    "next": "^10.2.3",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

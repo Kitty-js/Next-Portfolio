@@ -1,0 +1,13 @@
+# node
+node_modules
+
+#vscode
+.vscode
+
+# next
+out
+.next
+
+
+.env
+.env.local
